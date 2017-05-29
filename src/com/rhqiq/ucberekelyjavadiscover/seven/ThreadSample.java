@@ -1,4 +1,4 @@
-package com.rhqiq.seven;
+package com.rhqiq.ucberekelyjavadiscover.seven;
 
 class Opt {
     int n;

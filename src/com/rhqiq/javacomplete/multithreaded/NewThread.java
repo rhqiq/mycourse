@@ -1,4 +1,4 @@
-package com.rhqiq.multithread;
+package com.rhqiq.javacomplete.multithreaded;
 
 public class NewThread  implements Runnable {
 

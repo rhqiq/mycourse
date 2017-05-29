@@ -1,4 +1,4 @@
-package com.rhqiq.nine;
+package com.rhqiq.ucberekelyjavadiscover.nine;
 
 
 import javax.xml.parsers.*;

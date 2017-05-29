@@ -1,4 +1,4 @@
-package com.rhqiq.bowling;
+package com.rhqiq.ucberekelyjavadiscover.bowling;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

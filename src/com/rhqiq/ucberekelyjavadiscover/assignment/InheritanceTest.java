@@ -1,4 +1,4 @@
-package com.rhqiq.assignment;
+package com.rhqiq.ucberekelyjavadiscover.assignment;
 
 interface Domestic { }
 interface Import { }

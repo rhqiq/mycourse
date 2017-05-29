@@ -1,8 +1,7 @@
-package com.rhqiq.nine;
+package com.rhqiq.ucberekelyjavadiscover.nine;
 
 import javax.xml.stream.*;
 import java.io.*;
-import java.util.*;
 
 public class StaxDVDReader {
     public void read(String  filepath) {

@@ -1,4 +1,4 @@
-package com.rhqiq.eight;
+package com.rhqiq.ucberekelyjavadiscover.eight;
 
 import java.io.BufferedReader;
 import java.io.IOException;
